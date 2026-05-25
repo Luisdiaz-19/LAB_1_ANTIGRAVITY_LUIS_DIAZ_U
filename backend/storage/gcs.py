@@ -1,0 +1,1 @@
+# Integración Google Cloud Storage
